@@ -1,6 +1,13 @@
 .card {
-    width: 60vw;  
-    max-height: 80vh;
-    overflow: auto;
-    margin-bottom: 20px;
+  width: 60vw;
+  max-height: 80vh;
+  overflow: auto;
+  margin-bottom: 20px;
+  border: 1px solid darkblue;
+}
+
+img {
+  width: 43vw;
+  image-rendering: pixelated;
+  object-fit: contain;
 }
