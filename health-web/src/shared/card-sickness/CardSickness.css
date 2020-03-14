@@ -1,0 +1,6 @@
+.card {
+    width: 60vw;  
+    max-height: 80vh;
+    overflow: auto;
+    margin-bottom: 20px;
+}
